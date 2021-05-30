@@ -1,6 +1,7 @@
 {
 "name": "Brotein Stake",
-"description": "Come get swole!",
+"description": "Come get swole with us and help a good cause",
 "ticker": "BRO",
-"homepage": "https://www.bropool.club"
+"homepage": "https://www.bropool.club",
+"extended": "https://www.bropool.club/extendedpoolMetaData.json"
 }
